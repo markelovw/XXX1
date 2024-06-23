@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "текущая дата и время:"
+date
+
+echo "файлы в текущем каталоге:"
+ls
+
+echo "содержимое файла bash script training"
+cat "bash script training.txt"
