@@ -8,3 +8,4 @@ ls
 
 echo "содержимое файла bash script training"
 cat "bash script training.txt"
+XXXXXXXXXXXXXXXXXX
